@@ -1,0 +1,14 @@
+1.  Download python 3.4.0
+
+2.  Add C:\Python34\Scripts
+        C:\Python34\
+    To system environment variable
+
+3.  Download opencv
+    from https://pypi.org/project/opencv-contrib-python/
+    form using cmd command
+    pip install opencv-contrib-python
+    
+4.  If pip is not installed use python -m pip install -U pip
+
+5.  Install Pillow using cmd pip install pillow
