@@ -1,0 +1,1 @@
+1.  The command window have to close when the start option is being used then only other options can be used.
